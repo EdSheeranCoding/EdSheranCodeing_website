@@ -1,5 +1,13 @@
 body {
     background-color: antiquewhite;
     text-shadow: 0cap;
-    text-decoration-color: brown;
+    -webkit-text-fill-color: brown; 
+}
+
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #302E2E;
+        text-shadow:none;
+        -webkit-text-fill-color: aliceblue;
+    }
 }
