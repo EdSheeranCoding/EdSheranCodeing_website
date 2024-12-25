@@ -44,7 +44,7 @@ skills:
       - name: C
         description: ''
         percent: 40
-        icon: devicon/C
+        icon: devicon/c
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -52,15 +52,12 @@ skills:
       - name: Cooking
         description: ''
         percent: 60
-        icon: person-simple-walk
       - name: Reading
         description: ''
         percent: 100
-        icon: cat
       - name: Music
         description: ''
         percent: 80
-        icon: music
 
 languages:
   - name: English
