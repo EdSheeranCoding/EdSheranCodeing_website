@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Darcy Robertson
+title: Home
 
 # Full name (for SEO)
 first_name: Darcy Thomas
@@ -85,3 +85,5 @@ languages:
 I'm a second year student of computer engineering in UPF. I'm interested in AI safety, animal ethics and existential risk.
 
 If you have feedback or want to connect feel free to send me an email [here](mailto:darcy.robertson2004@yahoo.com.au)! I would love to hear it.😁
+
+I write a small blog to flesh out what I am learning in ML [here](about.md)
