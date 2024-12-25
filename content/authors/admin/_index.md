@@ -10,7 +10,7 @@ last_name: Robertson
 superuser: true
 
 # Role/position/tagline
-role: Studying "Mathematical Engineering in Data Science" at Universitat Pompeu Fabra
+# role: Data Science Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:

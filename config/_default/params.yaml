@@ -27,7 +27,7 @@ marketing:
 # Site header
 header:
   navbar:
-    enable: true
+    enable: false
     blox: "navbar"
     align: "right"
     show_search: true
@@ -42,7 +42,7 @@ footer:
       enable: true
       allow_derivatives: false
       share_alike: true
-      allow_commercial: false
+      allow_commercial: true
 
 # Localization
 locale:

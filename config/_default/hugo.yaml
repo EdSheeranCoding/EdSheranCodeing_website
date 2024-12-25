@@ -41,7 +41,7 @@ imaging:
   anchor: smart
 timeout: 600000
 taxonomies:
-  author: authors
+  author: author
 markup:
   _merge: deep
   highlight:
