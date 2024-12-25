@@ -28,7 +28,11 @@ marketing:
 header:
   navbar:
     enable: true
-    blox: floating-theme-toggler
+    blox: "navbar"
+    align: "right"
+    show_search: true
+    fixed_to_top: "true"
+
 
 # Site footer
 footer:

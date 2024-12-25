@@ -1,0 +1,14 @@
+h1 {
+    color: aliceblue;
+}
+
+body {
+    background-color: antiquewhite;
+    color: aliceblue; 
+}
+
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #332f2f;
+    }
+}

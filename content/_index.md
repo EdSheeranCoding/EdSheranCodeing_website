@@ -20,9 +20,6 @@ sections:
         url: static/uploads/resume.pdf
       # here is where you would have the button to your blog
     design:
-      banner:
-        # Upload your cover image to the `assets/media/` folder and reference it here
-        filename: banner.jpg
       biography:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.8em;'
