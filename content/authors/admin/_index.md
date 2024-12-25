@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Home
+title: Darcy Thomas Robertson
 
 # Full name (for SEO)
 first_name: Darcy Thomas
@@ -81,9 +81,9 @@ languages:
 #     icon: coursera
 #     summary: |
 #       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+
+# I write a small blog to flesh out what I am learning in ML [here](about.md)
 ---
 I'm a second year student of computer engineering in UPF. I'm interested in AI safety, animal ethics and existential risk.
 
 If you have feedback or want to connect feel free to send me an email [here](mailto:darcy.robertson2004@yahoo.com.au)! I would love to hear it.😁
-
-I write a small blog to flesh out what I am learning in ML [here](about.md)
